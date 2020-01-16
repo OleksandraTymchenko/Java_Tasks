@@ -1,6 +1,6 @@
 package com.alex.task05;
 
-public class Main {
+public class Lesson3Task05 {
     public static void main(String[] args) {
         final int MIDDLE = 10;
         int line = 0;
