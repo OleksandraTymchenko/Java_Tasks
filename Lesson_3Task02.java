@@ -1,6 +1,6 @@
 package com.alex.task02;
 
-public class Main {
+public class Lesson_3Task02 {
     public static void main(String[] args) {
         final int WIDTH = 10;
         int line = WIDTH;
