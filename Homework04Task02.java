@@ -1,6 +1,7 @@
 package com.alex.homework04;
 
 public class Homework04Task02 {
+    
     static void getByteCode(int x){
         int y;
         String str ="";
@@ -11,6 +12,7 @@ public class Homework04Task02 {
         }
         System.out.println(str);
     }
+    
     public static void main(String[] args) {
         getByteCode(1090900);
     }
