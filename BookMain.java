@@ -3,7 +3,7 @@ package com.alextym.task06;
 import java.util.Arrays;
 import java.util.Scanner;
 
-public class Main {
+public class BookMain {
     public static void main(String[] args) {
         int i = 5;
         Book book1 = new Book(1, "The Old Man and the Sea", "Ernest Hemingway", "B & W Publishing", 1987, 324, 78);
