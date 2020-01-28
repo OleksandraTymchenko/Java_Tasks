@@ -6,7 +6,6 @@ public class Books {
     private int i;
     private int count = 0;
     private Book[] books;
-    private Book[] search;
 
     public Books(int i) {
         this.i = i;
